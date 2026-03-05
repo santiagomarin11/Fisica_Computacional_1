@@ -2,7 +2,6 @@
 Mi curso de Física computacional 1 : UdeA
 [Página web: ](https://anferivera.github.io/)
 
-[Página web: Versión inicial. Diego Restrepo y Sebastian Bustamante](https://github.com/restrepo/ComputationalMethods))
 
 ## Horario de atención a estudiantes 
 L 11-12 M (of: -103, 6-124)
